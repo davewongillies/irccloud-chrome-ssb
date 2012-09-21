@@ -1,7 +1,8 @@
 {
   "name":"IRCCloud",
   "description":"IRCCloud as a standalone application",
-  "version":"2",
+  "manifest_version":2,
+  "version":"3.0",
   "app":{
     "urls":[
       "*://irccloud.com/"
